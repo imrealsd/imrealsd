@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrealsd&label=Profile%20views&color=0e75b6&style=flat" alt="imrealsd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrealsd" alt="imrealsd" /></a> </p>
-
 - 🔭 I’m currently working on **ARM MCUs & Network Applications**
 
 - 🌱 I’m currently learning **RTOS & Linux Internals**
