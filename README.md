@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+[![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)]()
 <h1 align="center">Hi 👋, I'm Subhadeep Dhang</h1>
 <h3 align="center">A passionate embedded firmware developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif">
