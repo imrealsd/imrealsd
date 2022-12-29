@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhadeep Dhang</h1>
 <h3 align="center">A passionate embedded firmware developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e9/cd/86/e9cd862edd43a52271dbafc3d906b856.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e9/cd/86/e9cd862edd43a52271dbafc3d906b856.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrealsd&label=Profile%20views&color=0e75b6&style=flat" alt="imrealsd" /> </p>
 
