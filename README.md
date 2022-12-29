@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **RTOS & Linux Internals**
 
-- 💬 Ask me about **C,MCU,MPU,Embedded Syetems,Networking**
+- 💬 Ask me about **C, Microprocessors, Microcontrollers, Embedded Syetems, Networking, Linux**
 
 - 📫 How to reach me **subhadeepdhang1@gmail.com**
 
