@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I'm Subhadeep Dhang an embedded firmware developer, have 2 years of expertise in C programming & bare-metal firmware development on 8 bit AVR as well as 32 bit ARM CORTEX M series MCUs . I've built some Bare -Metal projects on ARM & AVR. Currently I'm upgrading myself to RTOS & Embedded Linux. 
 
-Connect with me on [LINKEDIN] 
+Connect with me on [Linkedin] 
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=imrealsd&style=for-the-badge">
 </a>
 
-[LINKEDIN]: https://www.linkedin.com/in/subhadeep-dhang/
+[Linkedin]: https://www.linkedin.com/in/subhadeep-dhang/
   
