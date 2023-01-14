@@ -19,6 +19,7 @@ I'm Subhadeep Dhang an embedded firmware developer, have 2 years of expertise in
 
 Connect with me on [Linkedin].
 Email - subhadeepdhang1@gmail.com
+
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=imrealsd&style=for-the-badge">
 </a>
