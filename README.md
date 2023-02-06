@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Subhadeep Dhang an embedded firmware developer, have 2 years of expertise in C programming & bare-metal firmware development on 8 bit AVR as well as 32 bit ARM cortex M series MCUs . I've built some bare-metal projects on ARM & AVR. Currently I'm upgrading myself to RTOS & Embedded Linux. 
+I'm Subhadeep Dhang an embedded firmware developer, have 2 years of expertise in C programming & bare-metal firmware development on 8 bit AVR as well as 32 bit ARM Cortex M series MCUs . I've built bare-metal projects on arm using registes & hal.Currently I'm upgrading myself to RTOS & Linux. 
 
 Connect with me on [Linkedin] 
 
