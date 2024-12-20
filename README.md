@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Subhadeep Dhnag, a firmware developer proficient in C programming. My expertise spans various microcontroller systems, including 8, 16, and 32-bit architectures. I've successfully executed numerous projects, from foundational bare-metal designs to complex RTOS applications. This work has involved skillfully navigating both register-level programming and HAL APIs. Currently, I'm furthering my skills by venturing into embedded Linux. This progression showcases my commitment to continuous learning and staying updated with cutting-edge embedded systems technology. 
+I'm Subhadeep Dhang, a firmware developer proficient in C programming. My expertise spans various microcontroller systems, including 8, 16, and 32-bit architectures. I've successfully executed numerous projects, from foundational bare-metal designs to complex RTOS applications. This work has involved skillfully navigating both register-level programming and HAL APIs. Currently, I'm furthering my skills by venturing into embedded Linux. This progression showcases my commitment to continuous learning and staying updated with cutting-edge embedded systems technology. 
 
 Connect with me on [Linkedin] 
 
