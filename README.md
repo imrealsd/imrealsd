@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Embedded Software Developer with 1.5 years of experience, skilled in designing high-performance solutions for real-time and resource-constrained systems. Proficient in embedded systems, RTOS, and C programming, with hands-on experience in bare-metal and real-time applications. Currently enhancing my skills in embedded Linux and device drivers to contribute to cutting-edge advancements in the semiconductor industry.
+I'm an embedded software developer with 1.5 years of experience, skilled in designing high-performance solutions for real-time and resource-constrained systems. Proficient in embedded systems, RTOS, and C programming, with hands-on experience in bare-metal and real-time applications. Currently enhancing my skills in embedded Linux and device drivers to contribute to cutting-edge advancements in the semiconductor industry.
 
 Connect with me on [Linkedin] 
 
